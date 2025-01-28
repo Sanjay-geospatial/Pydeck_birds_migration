@@ -5,7 +5,7 @@ This project visualizes the migration paths of bird species using **Pydeck**, a 
 
 ## Features
 - **Migration Route Mapping**: Visualizes migration paths across countries.
-- **Interactive Animations**: Adds dynamic elements to show migration in on globe.
+- **Interactive Animations**: Adds dynamic elements to show migration on globe.
 
 ## Data Source
 - https://github.com/codingCapricorn/Bird-Migration-Analysis-Using-Machine-Learning/blob/master/bird_tracking.csv
