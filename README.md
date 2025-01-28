@@ -3,6 +3,8 @@
 ## Project Overview
 This project visualizes the migration paths of bird species using **Pydeck**, a powerful library for geospatial data visualization. The aim is to highlight the intricate patterns of bird migration through interactive and engaging visualizations.
 
+![Bird Migration Visualization](https://github.com/Sanjay-geospatial/Pydeck_birds_migration/blob/main/Seagull%20migration.gif)
+
 ## Features
 - **Migration Route Mapping**: Visualizes migration paths across countries.
 - **Interactive Animations**: Adds dynamic elements to show migration on globe.
